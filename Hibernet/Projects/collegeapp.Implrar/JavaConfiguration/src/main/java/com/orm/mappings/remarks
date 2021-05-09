@@ -1,0 +1,32 @@
+
+College
+Dept
+Student
+Course
+Address
+Professors
+
+
+
+cid  cnm					aid  city state  cid  sid
+							1    pune  mh
+
+College
+				Dept						--> 1 - m				--> third_table
+				Address						--> 1 - 1				--> third_table
+				
+				
+Dept
+			Student						-- 1-M
+			Course						-->1-M
+			Professors					-->M-M
+			
+
+
+Student
+			Course						- M-M
+			Address						- M-1
+		
+PROFESSOR 
+		  ADDRESS							1-1
+		

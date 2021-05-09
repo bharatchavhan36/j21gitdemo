@@ -1,0 +1,52 @@
+
+Batch Date: Mar 4th @ 12:30 to 2:00PM
+
+Faculty: Mr. Nagoor Babu Sir---->https://www.youtube.com/watch?v=bqIUE_xdYJI&list=PLd3UqWTnYXOky-v2lRCzZ6G5lHyIA_YtZ                Nagoor babu
+                                                           https://www.youtube.com/watch?v=SZ8abQ3vmdc&list=PLd3UqWTnYXOmXS7oSFk_ZSLcJ7tydnt06     
+     https://www.youtube.com/watch?v=SZ8abQ3vmdc&list=PLd3UqWTnYXOlbNZyVIwgX627xvB0EWnqJ      Navin(Durgasoft)    best
+https://www.youtube.com/watch?v=bEjKBeB0QKQ&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+Duration: 2 Months (Daily one and half hour)           
+
+Fee:  750 INR
+
+Syllabus:
+1. Advantages of Hibernate compared to JDBC
+2. Introduction.
+
+3. ORM (Object Relational Mapping)
+
+4. Configuration xml file and Mapping xml file along with dtds.
+
+5. Hibernate architecture
+
+6. Installation and Directory Structure
+
+7. Hibernate Data Types.
+
+8. First Application using Hibernate.
+
+9. Hibernate API
+
+
+10. CRUD operations
+
+11. Primary key Generators
+
+12. Hibernate Query Language (HQL)
+
+13. Native SQL
+
+14. Criteria API
+
+15. Inheritance in Hibernate
+
+16. Relations
+     (one to one, one to many, many to one, many to many)
+
+17. Caching
+
+18. Connecting with Multiple Databases
+
+19. Integrating Hibernate with Servlets and Struts
+
+20. Hibernate Annotations
